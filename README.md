@@ -26,7 +26,7 @@
 
 1. Клонируйте репозиторий:
 
-  `git clone https://github.com/ваш_пользователь/WeatherApp.git`
+  `git clone https://github.com/Melsfi/Pyatkova_WeatherApp.git`
 
 2. Перейдите в директорию проекта:
 
