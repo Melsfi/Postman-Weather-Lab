@@ -52,14 +52,13 @@
 4. Получите API-ключ на OpenWeatherMap
 
 5.   В файле weather_app.py замените строку:
-     ```python
+     ```bash
    api_key = "ВАШ_API_КЛЮЧ"
    ```
 
 ## Как использовать 
-
 1. Запустите приложение:
-      ```bash
+   ```bash
    python weather_app.py
    ```
 
